@@ -1,0 +1,36 @@
+body {
+    color: darkslategray;
+    background-color: blanchedalmond;
+    font-family: Arial;
+    max-width: 650px;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 16px;
+    padding: 16px;
+}
+
+footer {
+    color: lightslategray ;
+    margin: 16px;
+    padding: 16px;
+}
+
+header {
+    color: lightslategray ;
+    margin: 16px;
+    padding: 16px;
+    font-size: x-large;
+}
+
+header a {
+    color: darkslategray;
+    text-decoration: none;
+    margin-right: 16px;
+    font-size: small;
+}
